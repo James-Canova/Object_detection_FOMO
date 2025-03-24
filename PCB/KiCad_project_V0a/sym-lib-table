@@ -1,3 +1,4 @@
 (sym_lib_table
   (version 7)
+  (lib (name "ObjDet_Library")(type "KiCad")(uri "/home/james/Public/Projects/Object_detection_FOMO/PCB/Project_KiCad_library/ObjDet_Library.kicad_sym")(options "")(descr ""))
 )
